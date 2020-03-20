@@ -19,8 +19,8 @@ The final dataset contains a total of 24301 schools, 18279 of which found a matc
 in census data so also total number of residentes and total number of households
 for the school postcode is available. The geographical coordinates are projected
 using the OSGB 1936 / British National Grid (EPSG 27700). The dataset is available
-as either a csv file ([download from here](https://github.com/claudiofronterre/geocode_schoolsUK/data/processed/schools_full_gecoded.csv)) or as a geopackage file 
-([download from here](https://github.com/claudiofronterre/geocode_schoolsUK/data/processed/geodata/schools_geocoded.gpkg)). 
+as either a csv file ([download from here](https://github.com/claudiofronterre/geocode_schoolsUK/blob/master/data/processed/schools_full_gecoded.csv)) or as a geopackage file 
+([download from here](https://github.com/claudiofronterre/geocode_schoolsUK/blob/master/data/processed/geodata/schools_geocoded.gpkg)). 
 
 The most important columns in the dataset are: 
 
@@ -30,7 +30,7 @@ The most important columns in the dataset are:
 - **tot_households** = total number of households at postcode level
 - **source** = source for coordinates (either GeoConvert census or opencage)
 
-![schools_spatial](https://github.com/claudiofronterre/geocode_schoolsUK/figs/schools_distribution.png)
+![schools_spatial](https://github.com/claudiofronterre/geocode_schoolsUK/blob/master/figs/schools_distribution.png)
 
 The map below shows how they are spatially distributed.
 
